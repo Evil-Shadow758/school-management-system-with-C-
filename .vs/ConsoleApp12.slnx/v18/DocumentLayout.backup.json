@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backend\\ConsoleApp12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3558BCDB-201A-39A4-D092-9EF1573927CD}|ConsoleApp12\\SchoolSystem.csproj|d:\\backend\\consoleapp12\\consoleapp12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3558BCDB-201A-39A4-D092-9EF1573927CD}|ConsoleApp12\\SchoolSystem.csproj|solutionrelative:consoleapp12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3558BCDB-201A-39A4-D092-9EF1573927CD}|ConsoleApp12\\SchoolSystem.csproj|d:\\backend\\consoleapp12\\consoleapp12\\logic\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3558BCDB-201A-39A4-D092-9EF1573927CD}|ConsoleApp12\\SchoolSystem.csproj|solutionrelative:consoleapp12\\logic\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3558BCDB-201A-39A4-D092-9EF1573927CD}|ConsoleApp12\\SchoolSystem.csproj|d:\\backend\\consoleapp12\\consoleapp12\\data\\schoolsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3558BCDB-201A-39A4-D092-9EF1573927CD}|ConsoleApp12\\SchoolSystem.csproj|solutionrelative:consoleapp12\\data\\schoolsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3558BCDB-201A-39A4-D092-9EF1573927CD}|ConsoleApp12\\SchoolSystem.csproj|d:\\backend\\consoleapp12\\consoleapp12\\logic\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3558BCDB-201A-39A4-D092-9EF1573927CD}|ConsoleApp12\\SchoolSystem.csproj|solutionrelative:consoleapp12\\logic\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3558BCDB-201A-39A4-D092-9EF1573927CD}|ConsoleApp12\\SchoolSystem.csproj|d:\\backend\\consoleapp12\\consoleapp12\\logic\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3558BCDB-201A-39A4-D092-9EF1573927CD}|ConsoleApp12\\SchoolSystem.csproj|solutionrelative:consoleapp12\\logic\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3558BCDB-201A-39A4-D092-9EF1573927CD}|ConsoleApp12\\SchoolSystem.csproj|d:\\backend\\consoleapp12\\consoleapp12\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3558BCDB-201A-39A4-D092-9EF1573927CD}|ConsoleApp12\\SchoolSystem.csproj|solutionrelative:consoleapp12\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3558BCDB-201A-39A4-D092-9EF1573927CD}|ConsoleApp12\\SchoolSystem.csproj|d:\\backend\\consoleapp12\\consoleapp12\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3558BCDB-201A-39A4-D092-9EF1573927CD}|ConsoleApp12\\SchoolSystem.csproj|solutionrelative:consoleapp12\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3558BCDB-201A-39A4-D092-9EF1573927CD}|ConsoleApp12\\SchoolSystem.csproj|d:\\backend\\consoleapp12\\consoleapp12\\logic\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3558BCDB-201A-39A4-D092-9EF1573927CD}|ConsoleApp12\\SchoolSystem.csproj|solutionrelative:consoleapp12\\logic\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3558BCDB-201A-39A4-D092-9EF1573927CD}|ConsoleApp12\\SchoolSystem.csproj|d:\\backend\\consoleapp12\\consoleapp12\\models\\enroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3558BCDB-201A-39A4-D092-9EF1573927CD}|ConsoleApp12\\SchoolSystem.csproj|solutionrelative:consoleapp12\\models\\enroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3558BCDB-201A-39A4-D092-9EF1573927CD}|ConsoleApp12\\SchoolSystem.csproj|d:\\backend\\consoleapp12\\consoleapp12\\models\\commondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3558BCDB-201A-39A4-D092-9EF1573927CD}|ConsoleApp12\\SchoolSystem.csproj|solutionrelative:consoleapp12\\models\\commondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3558BCDB-201A-39A4-D092-9EF1573927CD}|ConsoleApp12\\SchoolSystem.csproj|d:\\backend\\consoleapp12\\consoleapp12\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3558BCDB-201A-39A4-D092-9EF1573927CD}|ConsoleApp12\\SchoolSystem.csproj|solutionrelative:consoleapp12\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backend\\ConsoleApp12\\ConsoleApp12\\Migrations\\20260601041203_InitialCreateAllTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp12\\Migrations\\20260601041203_InitialCreateAllTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backend\\ConsoleApp12\\ConsoleApp12\\Migrations\\20260601040922_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp12\\Migrations\\20260601040922_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backend\\ConsoleApp12\\ConsoleApp12\\data\\Migrations\\20260530175547_MakeIdIdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp12\\data\\Migrations\\20260530175547_MakeIdIdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backend\\ConsoleApp12\\ConsoleApp12\\Migrations\\20260530152149_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp12\\Migrations\\20260530152149_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backend\\ConsoleApp12\\ConsoleApp12\\Migrations\\20260530151604_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp12\\Migrations\\20260530151604_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\logic\\TeacherService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp12\\logic\\TeacherService.cs",
+              "ToolTip": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\logic\\TeacherService.cs",
+              "RelativeToolTip": "ConsoleApp12\\logic\\TeacherService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwF0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T20:39:50.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\models\\Teacher.cs",
+              "RelativeDocumentMoniker": "ConsoleApp12\\models\\Teacher.cs",
+              "ToolTip": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\models\\Teacher.cs",
+              "RelativeToolTip": "ConsoleApp12\\models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T20:36:53.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnrollmentService.cs",
+              "DocumentMoniker": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\logic\\EnrollmentService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp12\\logic\\EnrollmentService.cs",
+              "ToolTip": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\logic\\EnrollmentService.cs",
+              "RelativeToolTip": "ConsoleApp12\\logic\\EnrollmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T16:40:20.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\logic\\CourseService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp12\\logic\\CourseService.cs",
+              "ToolTip": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\logic\\CourseService.cs",
+              "RelativeToolTip": "ConsoleApp12\\logic\\CourseService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T03:12:45.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enroll.cs",
+              "DocumentMoniker": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\models\\Enroll.cs",
+              "RelativeDocumentMoniker": "ConsoleApp12\\models\\Enroll.cs",
+              "ToolTip": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\models\\Enroll.cs",
+              "RelativeToolTip": "ConsoleApp12\\models\\Enroll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T13:39:04.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp12\\Program.cs",
+              "ToolTip": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\Program.cs",
+              "RelativeToolTip": "ConsoleApp12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T13:27:03.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\models\\Course.cs",
+              "RelativeDocumentMoniker": "ConsoleApp12\\models\\Course.cs",
+              "ToolTip": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\models\\Course.cs",
+              "RelativeToolTip": "ConsoleApp12\\models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T13:32:11.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\logic\\StudentService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp12\\logic\\StudentService.cs",
+              "ToolTip": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\logic\\StudentService.cs",
+              "RelativeToolTip": "ConsoleApp12\\logic\\StudentService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwGcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T15:29:52.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolSystemDBcontext.cs",
+              "DocumentMoniker": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\data\\SchoolSystemDBcontext.cs",
+              "RelativeDocumentMoniker": "ConsoleApp12\\data\\SchoolSystemDBcontext.cs",
+              "ToolTip": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\data\\SchoolSystemDBcontext.cs",
+              "RelativeToolTip": "ConsoleApp12\\data\\SchoolSystemDBcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T13:50:15.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "student.cs",
+              "DocumentMoniker": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\models\\student.cs",
+              "RelativeDocumentMoniker": "ConsoleApp12\\models\\student.cs",
+              "ToolTip": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\models\\student.cs",
+              "RelativeToolTip": "ConsoleApp12\\models\\student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T13:29:53.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommonDB.cs",
+              "DocumentMoniker": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\models\\CommonDB.cs",
+              "RelativeDocumentMoniker": "ConsoleApp12\\models\\CommonDB.cs",
+              "ToolTip": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\models\\CommonDB.cs",
+              "RelativeToolTip": "ConsoleApp12\\models\\CommonDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T13:35:10.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260530175547_MakeIdIdentity.cs",
+              "DocumentMoniker": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\data\\Migrations\\20260530175547_MakeIdIdentity.cs",
+              "RelativeDocumentMoniker": "ConsoleApp12\\data\\Migrations\\20260530175547_MakeIdIdentity.cs",
+              "ToolTip": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\data\\Migrations\\20260530175547_MakeIdIdentity.cs",
+              "RelativeToolTip": "ConsoleApp12\\data\\Migrations\\20260530175547_MakeIdIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T17:55:48.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260601040922_InitialCreate.cs",
+              "DocumentMoniker": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\Migrations\\20260601040922_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ConsoleApp12\\Migrations\\20260601040922_InitialCreate.cs",
+              "ToolTip": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\Migrations\\20260601040922_InitialCreate.cs",
+              "RelativeToolTip": "ConsoleApp12\\Migrations\\20260601040922_InitialCreate.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T04:09:22.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260601041203_InitialCreateAllTables.cs",
+              "DocumentMoniker": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\Migrations\\20260601041203_InitialCreateAllTables.cs",
+              "RelativeDocumentMoniker": "ConsoleApp12\\Migrations\\20260601041203_InitialCreateAllTables.cs",
+              "ToolTip": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\Migrations\\20260601041203_InitialCreateAllTables.cs",
+              "RelativeToolTip": "ConsoleApp12\\Migrations\\20260601041203_InitialCreateAllTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T04:12:03.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260530151604_InitialCreate.cs",
+              "DocumentMoniker": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\Migrations\\20260530151604_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ConsoleApp12\\Migrations\\20260530151604_InitialCreate.cs",
+              "ToolTip": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\Migrations\\20260530151604_InitialCreate.cs",
+              "RelativeToolTip": "ConsoleApp12\\Migrations\\20260530151604_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T15:16:05.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260530152149_InitialCreate.cs",
+              "DocumentMoniker": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\Migrations\\20260530152149_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ConsoleApp12\\Migrations\\20260530152149_InitialCreate.cs",
+              "ToolTip": "D:\\backend\\ConsoleApp12\\ConsoleApp12\\Migrations\\20260530152149_InitialCreate.cs",
+              "RelativeToolTip": "ConsoleApp12\\Migrations\\20260530152149_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T15:21:49.451Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
