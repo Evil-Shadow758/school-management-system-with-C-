@@ -49,9 +49,8 @@ Here is the interactive menu of the console application:
 
 Ensure you have SQL Server installed.
 
-```text
 Run EF Core migrations to create the database:
-```
+
 ```bash
 dotnet ef database update
 ```
