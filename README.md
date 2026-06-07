@@ -45,17 +45,16 @@ Here is the interactive menu of the console application:
    ```bash
    git clone [https://github.com/Kimcpu/school-management-system-with-C-.git](https://github.com/Kimcpu/school-management-system-with-C-.git)
    
-2. Database Setup:
+2. **Database Setup**:
 
 Ensure you have SQL Server installed.
 
+```text
 Run EF Core migrations to create the database:
-
-Bash
+```
+```bash
 dotnet ef database update
-
-3. Run the application:
+```
+3. **Run the application**:
 
 Open the solution (ConsoleApp12.slnx) in Visual Studio and press F5 or click Run.
-
-This project was developed as a hands-on assignment for the CodeSpark BackEnd course to master backend development fundamentals.
